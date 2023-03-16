@@ -1,11 +1,11 @@
-.back{
+.backgro{
     background-image:url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
 }
 .image{
     border-radius: 50%;
 }
-.size1{
-    height:500px; width:100%;
+.sizes{
+    height:500px; width:50%;
 }
 .color{
     background-color: aquamarine;

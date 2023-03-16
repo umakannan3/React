@@ -3,11 +3,11 @@ import React from "react";
 export function Greeting(){
     return(
         <>
-        <div class="back">
+        <div class="backgro">
         <h1 class="text-center">Congratulations</h1>
         <div class="container row ">
             <div class="col-lg-4"></div>
-            <div class="col-lg-6 size1 color mt-5 ">
+            <div class="col-lg-6 sizes color mt-5 ">
                 <div className="d-flex justify-content-center mt-5">
                 <img src=" https://assets.ccbp.in/frontend/react-js/congrats-card-profile-img.png" alt="no pic" className="image d-flex justify-content-center"/>
                 </div>

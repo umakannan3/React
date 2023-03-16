@@ -10,6 +10,10 @@ export function Menu(){
                 <Link to = '/congrates'><li className="text-white ms-3">Greeting</li></Link>
                 <Link to = '/super'><li className="text-white ms-3">Super Over League</li></Link>
                 <Link to = '/button'><li className="text-white ms-3">Social buttons</li></Link>
+                <Link to = '/notify'><li className="text-white ms-3">Notification</li></Link>
+                <Link to = '/login'><li className="text-white ms-3">Login</li></Link>
+                <Link to = '/technology'><li className="text-white ms-3">Technology</li></Link>
+                <Link to = '/count'><li className="text-white ms-3">Counter</li></Link>
             </ul>
 
         </div>
