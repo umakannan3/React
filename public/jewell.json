@@ -1,0 +1,201 @@
+[
+    {
+        "id" : 1,
+        "name" : "Stone-stud",
+        "brand" : "KDM",
+        "Catagroy" : "earings",
+        "weight" : "3grams",
+        "price" : 15000,
+        "imageURL" : "https://staticimg.titan.co.in/Tanishq/Catalog/505002SAVAGA09_1.jpg?impolicy=pqmed&imwidth=640" ,
+        "Discription" : "916 hallmark"
+    },
+    {
+        "id" : 2,
+        "name" : "Antique-Bangle",
+        "brand" : "KDM",
+        "Catagroy" : "Bangles",
+        "weight" : "40grams",
+        "price" : 200000,
+        "imageURL" : "https://www.kvmjewellers.com/wp-content/uploads/2019/12/calcutta-red-antique-bangles-with-matt-finishing.jpg" ,
+        "Discription" : "916 hallmark"
+    },
+    {
+        "id" : 3,
+        "name" : "Dimond-neckless",
+        "brand" : "KDM",
+        "Catagroy" : "Neck-Jewells",
+        "weight" : "24grams",
+        "price" : 120000,
+        "imageURL" : "https://www.freeiconspng.com/thumbs/jewellery-png/jewellery-necklace-png-14.png" ,
+        "Discription" : "916 hallmark"
+    },
+    {
+        "id" : 4,
+        "name" : "Kasumalai",
+        "brand" : "KDM",
+        "Catagroy" : "Neck-Jewells",
+        "weight" : "80grams",
+        "price" : 400000,
+        "imageURL" : "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61SYk4s9aVL._UL1100_.jpg" ,
+        "Discription" : "916 hallmark"
+    },
+    {
+        "id" : 5,
+        "name" : "Nethichutti",
+        "brand" : "KDM",
+        "Catagroy" : "Forehead-jewell",
+        "weight" : "8grams",
+        "price" : 40000,
+        "imageURL" : "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSDVyAcdBUS86jBgiYI6b0t6DlB-jTG0w2pqiVV226j_O5cjyNZkBfNrJn_6MmSBWrULvn-OuuC1zpnXDaXGGMTlMWGUrh6EkVa2d5s98vlDaSAp1AX1AeB" ,
+        "Discription" : "916 hallmark"
+    },
+    {
+        "id" : 6,
+        "name" : "Dimond-Ring",
+        "brand" : "KDM",
+        "Catagroy" : "Ring",
+        "weight" : "3grams",
+        "price" : 15000,
+        "imageURL" : "https://www.orra.co.in/pub/media/catalog/product/y/r/yrg19023-a.jpg" ,
+        "Discription" : "916 hallmark"
+    },
+    {
+        "id" : 7,
+        "name" : "Dimond-nosestudds",
+        "brand" : "KDM",
+        "Catagroy" : "earings",
+        "weight" : "1grams",
+        "price" : 10000,
+        "imageURL" : "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSpCbp_dLff2V5lEYOmCwLevH0TI1KXEc2wyrWt6BtL7QOcD-wzkinOUSr9nSYw0MNFhZbr2grZT_bg9E71X5RXFU-PV-5ixgw79FbTGjv50BYk2EDcAZ_KOpmT" ,
+        "Discription" : "916 hallmark"
+    },
+    {
+        "id" : 8,
+        "name" : "Side-stud",
+        "brand" : "KDM",
+        "Catagroy" : "earings",
+        "weight" : "2grams",
+        "price" : 10000,
+        "imageURL" : "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSrisyShYV1p8fAdIewN31pN_OpihqeLtOK5LtwQRA4eW12L9DT_HW8ADwFChQg5luKygEDHlcn2BTFUUVwUmxoie4fhlUhC30VOPmmTcgnWSNp4mJD55KJDd5ngQIdnxvh7BM&usqp=CAc" ,
+        "Discription" : "916 hallmark"
+    },
+    {
+        "id" : 9,
+        "name" : "chain",
+        "brand" : "KDM",
+        "Catagroy" : "Neck-jewell",
+        "weight" : "12grams",
+        "price" : 80000,
+        "imageURL" : "https://staticimg.titan.co.in/Tanishq/Catalog/51T404CCMAA00_1.jpg?impolicy=pqmed&imwidth=640" ,
+        "Discription" : "916 hallmark"
+    },
+    {
+        "id" : 10,
+        "name" : "Otiyanam",
+        "brand" : "KDM",
+        "Catagroy" : "Hip-jewellary",
+        "weight" : "160grams",
+        "price" : 800000,
+        "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwOL9Ayoz_9jN3lCABsIZFRALlYbZuHb3QDI7eKITMGDmpwMw597wvFWCe365u2i4yAMI&usqp=CAU" ,
+        "Discription" : "916 hallmark"
+    },
+    {
+        "id" : 11,
+        "name" : "Dimond-stud",
+        "brand" : "KDM",
+        "Catagroy" : "earings",
+        "weight" : "5grams",
+        "price" : 50000,
+        "imageURL" : "https://staticimg.titan.co.in/Tanishq/Catalog/505090SOHAGA02_1.jpg?impolicy=pqmed&imwidth=640" ,
+        "Discription" : "916 hallmark"
+    },
+    {
+        "id" : 12,
+        "name" : "dimond-Bangle",
+        "brand" : "KDM",
+        "Catagroy" : "Bangles",
+        "weight" : "48grams",
+        "price" : 205000,
+        "imageURL" : "https://cdn1.jewelxy.com/live/img/business_product/5JIte7vJmS_20200724171316.jpg"
+    },
+    {
+        "id" : 13,
+        "name" : "RoseGold-neckless",
+        "brand" : "KDM",
+        "Catagroy" : "Neck-Jewells",
+        "weight" : "24grams",
+        "price" : 120000,
+        "imageURL" : "https://m.media-amazon.com/images/I/61W3awTlU0L._UL1200_.jpg",
+        "Discription" : "916 hallmark"
+    },
+    {
+        "id" : 14,
+        "name" : "kolusu",
+        "brand" : "KDM",
+        "Catagroy" : "leg-Jewells",
+        "weight" : "24grams",
+        "price" : 120000,
+        "imageURL" : "https://m.media-amazon.com/images/I/61gh7AnnwcL._UX522_.jpg" ,
+        "Discription" : "916 hallmark"
+    },
+    {
+        "id" : 15,
+        "name" : "Dimond-Ring",
+        "brand" : "KDM",
+        "Catagroy" : "Finger-jewell",
+        "weight" : "2grams",
+        "price" : 18000,
+        "imageURL" : "https://staticimg.titan.co.in/Tanishq/Catalog/501047FDEAA09_1.jpg?impolicy=pqmed&imwidth=640" ,
+        "Discription" : "916 hallmark"
+    },
+    {
+        "id" : 16,
+        "name" : "Dimond-studds",
+        "brand" : "KDM",
+        "Catagroy" : "Ear-jewell",
+        "weight" : "6grams",
+        "price" : 60000,
+        "imageURL" : "https://staticimg.titan.co.in/Tanishq/Catalog/50D3PTDUCABA02.jpg?impolicy=pqmed&imwidth=640" ,
+        "Discription" : "916 hallmark"
+    },
+    {
+        "id" : 17,
+        "name" : "Dimond-pentent",
+        "brand" : "KDM",
+        "Catagroy" : "Neck-jewell",
+        "weight" : "2grams",
+        "price" : 30000,
+        "imageURL" : "https://staticimg.titan.co.in/Tanishq/Catalog/50F1GPPDEAAA02_1.jpg?impolicy=pqmed&imwidth=640" ,
+        "Discription" : "916 hallmark"
+    },
+    {
+        "id" : 18,
+        "name" : "Side-stud",
+        "brand" : "KDM",
+        "Catagroy" : "earings",
+        "weight" : "2grams",
+        "price" : 10000,
+        "imageURL" : "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE03282-YGP600_11_listfront.jpg" ,
+        "Discription" : "916 hallmark"
+    },
+    {
+        "id" : 19,
+        "name" : "chain",
+        "brand" : "KDM",
+        "Catagroy" : "Neck-jewell",
+        "weight" : "12grams",
+        "price" : 80000,
+        "imageURL" : "https://banner.caratlane.com/live-images/8738297ea748444297d79130d2077e23.jpg" ,
+        "Discription" : "916 hallmark"
+    },
+    {
+        "id" : 20,
+        "name" : "Single",
+        "brand" : "KDM",
+        "Catagroy" : "Hand-jewellary",
+        "weight" : "8grams",
+        "price" : 40000,
+        "imageURL" : "https://cdn.caratlane.com/media/catalog/product/J/T/JT01060-1YP900_1_lar.jpg" ,
+        "Discription" : "916 hallmark"
+    }
+]

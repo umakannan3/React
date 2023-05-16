@@ -6,7 +6,7 @@ import ml1 from './ml.jpg'
 export function Technology(){
     return(
         <>
-        <div className="container row backcol mx-5 my-5">
+        <div className="container-fluid row backcol">
             <div>
                 <p className="fs-1 text-center fw-bold">Learn 4.0 technology</p>
                 <p className="text-center">technology, the application of scientific knowledge to the practical aims of human life or, as it is sometimes phrased, to the change and manipulation of the human environment.

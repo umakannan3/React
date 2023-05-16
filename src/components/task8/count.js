@@ -10,7 +10,7 @@ export function Counter(){
             <h1 className="ps-5"> {count}</h1>
             <button onClick={()=>setCount(count+1)} className="rounded-5">Increment</button>
             <button onClick={()=>setCount(count-1)} className="rounded-5">Decrement </button>
-            <button onClick={()=>setCount(0)} className="rounded-5">Reset</button>
+            <button onClick={()=>setCount(count*0)} className="rounded-5">Reset</button>
 
 
         </div>

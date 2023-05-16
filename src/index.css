@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* .jewellimg{
+  height: 350px !important;
+  width: 250px !important;
+} */
+img{
+  height: 350px;
+  width:250px;
+}
