@@ -22,7 +22,6 @@ import {Mango} from './components/task9/mango'
 import {Feedback} from './components/task10/feedback'
 import './components/task10/feedback.css'
 import {Heart} from './components/task10/heart'
-import {Date} from './components/task11/date';
 import {Register} from './components/node/week1/registration'
 import {Load} from './components/node/week1/loading'
 import {Jewell} from './components/jsontask/jewell'
@@ -46,7 +45,6 @@ function App() {
         <Route path='/mango'element={[<Menu/>,<Mango/>]}></Route>
         <Route path='/feed'element={[<Menu/>,<Feedback/>]}></Route>
         <Route path='/heart'element={[<Menu/>,<Heart/>]}></Route>
-        {/* <Route path='/date'element={[<Menu/>,<Date/>]}></Route> */}
         <Route path='/register'element={<Register/>}></Route>
         <Route path='/load'element={<Load/>}></Route>
         <Route path='/jewell' element={[<Menu/>,<Jewell/>]}></Route>
