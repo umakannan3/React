@@ -46,7 +46,7 @@ function App() {
         <Route path='/mango'element={[<Menu/>,<Mango/>]}></Route>
         <Route path='/feed'element={[<Menu/>,<Feedback/>]}></Route>
         <Route path='/heart'element={[<Menu/>,<Heart/>]}></Route>
-        <Route path='/date'element={[<Menu/>,<Date/>]}></Route>
+        {/* <Route path='/date'element={[<Menu/>,<Date/>]}></Route> */}
         <Route path='/register'element={<Register/>}></Route>
         <Route path='/load'element={<Load/>}></Route>
         <Route path='/jewell' element={[<Menu/>,<Jewell/>]}></Route>
