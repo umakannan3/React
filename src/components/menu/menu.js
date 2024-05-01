@@ -12,7 +12,7 @@ export function Menu(){
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
-        {/* <li class="nav-item"><Link to='/home1'class="nav-link active" aria-current="page">Hello</Link></li> */}
+        <li class="nav-item"><Link to='/home1'class="nav-link active" aria-current="page">Hello</Link></li>
         {/* <li class="nav-item"><Link to='/congrates'class="nav-link active">Greeting</Link></li> */}
         {/* <li class="nav-item"><Link to='/super' class="nav-link active" >Super Over League</Link></li> */}
         {/* <li class="nav-item"><Link to='/button' class="nav-link active">Social Buttons</Link></li> */}

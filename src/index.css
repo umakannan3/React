@@ -19,3 +19,29 @@ img{
   height: 350px;
   width:250px;
 }
+
+.hello-title {
+  color: #dc3545; /* Text color */
+  font-size: 3rem; /* Font size */
+  font-weight: bold; /* Bold font weight */
+  animation: fadeInUp 1s ease-in-out; /* Animation */
+}
+
+@keyframes fadeInUp {
+  0% {
+      opacity: 0;
+      transform: translateY(20px);
+  }
+  100% {
+      opacity: 1;
+      transform: translateY(0);
+  }
+}
+
+.container-fluid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Additional styles can be added as needed */
